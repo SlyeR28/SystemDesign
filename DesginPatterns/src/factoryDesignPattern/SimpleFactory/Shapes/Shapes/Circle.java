@@ -1,4 +1,4 @@
-package factoryDesignPattern.FactoryMethod.Shapes;
+package factoryDesignPattern.SimpleFactory.Shapes.Shapes;
 
 public class Circle implements Shapes{
 
