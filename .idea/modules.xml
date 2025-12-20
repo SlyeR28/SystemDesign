@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DesginPatterns/DesginPatterns.iml" filepath="$PROJECT_DIR$/DesginPatterns/DesginPatterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesignPatterns/DesignPatterns.iml" filepath="$PROJECT_DIR$/DesignPatterns/DesignPatterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PaymentGateWay/PaymentGateWay.iml" filepath="$PROJECT_DIR$/PaymentGateWay/PaymentGateWay.iml" />
       <module fileurl="file://$PROJECT_DIR$/SolidPrincples/SolidPrincples.iml" filepath="$PROJECT_DIR$/SolidPrincples/SolidPrincples.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/SystemDesgin.iml" filepath="$PROJECT_DIR$/.idea/SystemDesgin.iml" />
       <module fileurl="file://$PROJECT_DIR$/Tomato/Tomato.iml" filepath="$PROJECT_DIR$/Tomato/Tomato.iml" />
